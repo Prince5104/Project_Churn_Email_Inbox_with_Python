@@ -1,0 +1,101 @@
+From: john.doe@example.com
+To: jane.smith@company.org
+Subject: Meeting reminder for the new project
+Date: Tue Jan 16 10:42:35 2022
+
+From: mary.jones@webmail.com
+To: chris.brown@corporation.net
+Subject: Annual Report Discussion
+Date: Fri Sep 21 14:24:17 2021
+
+From: lisa.white@service.org
+To: daniel.green@enterprise.com
+Subject: Updates on the client feedback
+Date: Mon Feb 27 08:52:00 2020
+
+From: andrew.morris@company.com
+To: sarah.lee@webmail.org
+Subject: Re: Proposal for new contract
+Date: Sun Jul 12 19:18:45 2023
+
+From: charles.wilson@service.com
+To: emily.johnson@service.com
+Subject: Final review of Q4 reports
+Date: Wed Oct 30 13:56:09 2020
+
+From: david.clark@randommail.com
+To: laura.martin@business.net
+Subject: Collaboration opportunity in tech
+Date: Mon Apr 14 15:37:24 2022
+
+From: rachel.turner@projectmail.com
+To: kevin.miller@corp.org
+Subject: Meeting notes and follow-up tasks
+Date: Thu May 22 09:21:39 2023
+
+From: michael.baker@company.com
+To: jennifer.hall@service.org
+Subject: Invitation to the annual conference
+Date: Sat Aug 18 11:42:17 2021
+
+From: george.anderson@domain.org
+To: susan.adams@corporation.com
+Subject: Report on latest marketing trends
+Date: Tue Nov 15 17:35:06 2020
+
+From: olivia.thomas@randommail.com
+To: steven.walker@company.org
+Subject: Re: Update on project status
+Date: Fri Mar 3 16:21:11 2022
+
+From: brenda.martinez@webmail.net
+To: patrick.wood@company.com
+Subject: Review of the new proposal
+Date: Wed Dec 5 07:58:44 2020
+
+From: anna.young@enterprise.org
+To: edward.campbell@projectmail.com
+Subject: Introduction to the new team members
+Date: Thu Oct 12 14:18:37 2021
+
+From: james.taylor@business.com
+To: victoria.wilson@randommail.net
+Subject: Project milestone update for Q3
+Date: Mon Sep 2 13:51:22 2023
+
+From: mark.morris@corporation.com
+To: carol.evans@company.org
+Subject: Follow-up on budget allocation
+Date: Sun Jul 8 20:29:41 2020
+
+From: nancy.turner@domain.com
+To: william.bell@business.org
+Subject: Insights on the upcoming campaign
+Date: Tue Nov 29 15:14:52 2022
+
+From: paul.jenkins@service.org
+To: natalie.anderson@enterprise.com
+Subject: Important meeting rescheduled
+Date: Sat Jan 19 10:43:13 2021
+
+From: jessica.green@randommail.com
+To: thomas.parker@projectmail.com
+Subject: Re: Final presentation for the board
+Date: Thu Jun 6 17:28:10 2020
+
+From: joshua.scott@corporation.com
+To: sophia.moore@webmail.org
+Subject: Request for client feedback
+Date: Fri Aug 24 09:51:16 2022
+
+From: danielle.clark@business.org
+To: brian.white@domain.net
+Subject: Update on deliverables for the month
+Date: Tue May 14 08:47:03 2021
+
+From: matthew.morris@projectmail.org
+To: alexis.martin@service.com
+Subject: Team building event for next quarter
+Date: Mon Feb 18 11:26:34 2023
+
+From: samantha.robinson@domain.org
